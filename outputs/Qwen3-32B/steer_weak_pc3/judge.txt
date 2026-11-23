@@ -1,0 +1,77 @@
+batch msgbatch_01SQmbeDbM8XZtAB4t5wF4JH: 1200 requests
+  msgbatch_01SQmbeDbM8XZtAB4t5wF4JH: 1200 processing, 0 done
+  msgbatch_01SQmbeDbM8XZtAB4t5wF4JH: 1200 processing, 0 done
+  msgbatch_01SQmbeDbM8XZtAB4t5wF4JH: 1200 processing, 0 done
+  msgbatch_01SQmbeDbM8XZtAB4t5wF4JH: 1200 processing, 0 done
+  msgbatch_01SQmbeDbM8XZtAB4t5wF4JH: 1200 processing, 0 done
+  msgbatch_01SQmbeDbM8XZtAB4t5wF4JH: 1200 processing, 0 done
+
+=== steer all positions: share answered in the question's language | in English | mean coherence | capped
+alpha               -8   -6   -5   -4   -3   -2   -1    0    1    2    3    4    5    6    8
+          qlang                                                                             
+same_lang chinese  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+          english  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+          hindi    1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  0.8  0.0
+          turkish  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  0.8  0.0
+english   chinese  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0
+          english  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+          hindi    0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0
+          turkish  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0
+coherence chinese  3.0  2.9  3.0  3.0  3.0  3.0  3.0  2.9  3.0  3.0  3.0  3.0  3.0  3.0  2.9
+          english  3.0  3.0  3.0  3.0  2.9  2.9  2.9  3.0  3.0  3.0  3.0  2.9  3.0  3.0  3.0
+          hindi    1.9  2.7  2.5  2.3  2.7  2.3  2.6  2.8  2.4  2.8  2.4  2.6  2.1  2.0  2.5
+          turkish  2.7  2.6  2.9  2.7  2.8  2.9  3.0  2.9  2.9  2.9  2.9  2.8  2.8  1.9  2.6
+capped    chinese  0.8  0.9  0.9  1.0  1.0  1.0  1.0  0.9  0.9  1.0  1.0  1.0  1.0  1.0  1.0
+          english  1.0  0.9  0.9  0.9  0.9  0.9  0.9  0.9  0.9  0.9  0.9  1.0  0.9  1.0  1.0
+          hindi    0.9  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+          turkish  0.8  1.0  0.9  0.9  1.0  0.8  1.0  1.0  1.0  1.0  0.9  1.0  1.0  1.0  1.0
+alpha -8: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -6: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -5: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -4: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -3: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -2: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -1: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +0: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +1: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +2: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +3: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +4: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +5: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +6: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 8, 'Hindi': 8, 'mixed': 2, 'Serbian': 1}
+alpha +8: languages {'English': 10, 'Mandarin Chinese': 10, 'Serbian': 10, 'Russian': 8, 'mixed': 2}
+
+=== steer gen positions: share answered in the question's language | in English | mean coherence | capped
+alpha               -8   -6   -5   -4   -3   -2   -1    0    1    2    3    4    5    6    8
+          qlang                                                                             
+same_lang chinese  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+          english  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+          hindi    1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+          turkish  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+english   chinese  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0
+          english  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+          hindi    0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0
+          turkish  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0
+coherence chinese  2.9  2.9  3.0  2.9  2.8  3.0  3.0  3.0  3.0  3.0  3.0  3.0  3.0  2.9  3.0
+          english  3.0  3.0  3.0  3.0  2.9  2.9  3.0  3.0  3.0  3.0  3.0  3.0  3.0  3.0  3.0
+          hindi    2.0  2.5  2.7  2.9  2.5  2.6  2.7  2.7  2.5  2.6  2.6  2.5  2.9  2.5  1.6
+          turkish  2.5  2.9  3.0  2.9  3.0  2.9  3.0  2.9  2.9  2.9  3.0  3.0  2.9  2.9  1.8
+capped    chinese  0.9  1.0  0.9  1.0  1.0  1.0  1.0  0.9  1.0  0.9  1.0  1.0  1.0  1.0  1.0
+          english  1.0  0.9  0.9  0.9  0.9  1.0  1.0  0.9  0.9  0.9  0.9  0.9  1.0  0.9  1.0
+          hindi    0.9  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+          turkish  0.9  0.8  0.9  0.9  1.0  1.0  0.9  1.0  1.0  1.0  1.0  0.9  0.9  1.0  1.0
+alpha -8: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -6: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -5: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -4: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -3: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -2: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha -1: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +0: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +1: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +2: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +3: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +4: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +5: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +6: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}
+alpha +8: languages {'English': 10, 'Mandarin Chinese': 10, 'Turkish': 10, 'Hindi': 10}

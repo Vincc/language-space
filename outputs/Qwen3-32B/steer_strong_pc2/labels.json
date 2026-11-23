@@ -1,0 +1,8297 @@
+[
+{
+"language": "Japanese",
+"other_languages": [
+"Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Korean",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Korean",
+"other_languages": [
+"Turkish",
+"English"
+],
+"script": "Hangul",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English",
+"Mandarin Chinese"
+],
+"script": "Japanese (mixed Han, Hiragana, Katakana) with Latin",
+"coherence": 3
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Chinese",
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"English",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English",
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Mandarin Chinese",
+"English",
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese",
+"Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English",
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Latin"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Spanish",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"Russian",
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"Italian",
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "French",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Russian",
+"other_languages": [
+"Hindi"
+],
+"script": "Cyrillic",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 1
+},
+{
+"language": "mixed",
+"other_languages": [
+"English",
+"Spanish"
+],
+"script": "Latin",
+"coherence": 1
+},
+{
+"language": "mixed",
+"other_languages": [
+"Spanish"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 1
+},
+{
+"language": "mixed",
+"other_languages": [
+"Turkish",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Portuguese",
+"other_languages": [
+"Turkish",
+"Italian"
+],
+"script": "Latin",
+"coherence": 1
+},
+{
+"language": "Turkish",
+"other_languages": [
+"French",
+"Spanish",
+"English",
+"Italian"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Romanian"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 1
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Portuguese",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "French",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "French",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "French",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Hindi",
+"English",
+"Russian"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "French",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Italian",
+"other_languages": [
+"Hindi"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Italian",
+"other_languages": [
+"Hindi"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Russian"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Spanish",
+"other_languages": [
+"Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Portuguese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Spanish",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Portuguese",
+"other_languages": [
+"Turkish",
+"Spanish"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Romanian",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "French",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 1
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Romanian",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Spanish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Italian",
+"Turkish"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "French",
+"other_languages": [
+"Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "French",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "French",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"English",
+"French"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese",
+"Hindi"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Dutch",
+"other_languages": [
+"French",
+"Hindi"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "French",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Russian",
+"other_languages": [
+"French"
+],
+"script": "Cyrillic",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"English",
+"French"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Chinese",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Han, Hiragana, Katakana, Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English",
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Japanese (Kanji, Hiragana, Katakana) with Latin characters for embedded English",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Japanese (mixed Han, Hiragana, Katakana) with Latin",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese",
+"Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese",
+"Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese",
+"Korean"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Japanese",
+"other_languages": [
+"English",
+"Mandarin Chinese"
+],
+"script": "Mixed (Han, Hiragana, Katakana, Latin)",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Japanese",
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"English",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"Japanese",
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Chinese",
+"Japanese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Latin"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "mixed",
+"other_languages": [
+"English",
+"Spanish"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 1
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 1
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "English",
+"other_languages": [],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"English",
+"French"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 3
+},
+{
+"language": "Mandarin Chinese",
+"other_languages": [
+"English"
+],
+"script": "Han",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English",
+"Chinese"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Spanish",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Spanish"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "mixed",
+"other_languages": [
+"English",
+"Turkish"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [
+"Spanish",
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Turkish",
+"other_languages": [],
+"script": "Latin",
+"coherence": 1
+},
+{
+"language": "Turkish",
+"other_languages": [
+"English"
+],
+"script": "Latin",
+"coherence": 2
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English"
+],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [
+"English",
+"Mandarin Chinese"
+],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "English",
+"other_languages": [
+"Mandarin Chinese"
+],
+"script": "Latin",
+"coherence": 3
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+},
+{
+"language": "Hindi",
+"other_languages": [],
+"script": "Devanagari",
+"coherence": 1
+}
+]

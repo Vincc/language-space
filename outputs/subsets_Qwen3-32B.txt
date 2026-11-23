@@ -1,0 +1,50 @@
+all     n=86  PC1-5 [0.27  0.145 0.08  0.06  0.046]  dims for 70/80/90%: 9/14/27
+strong  n=29  PC1-5 [0.364 0.137 0.091 0.056 0.047]  dims for 70/80/90%: 6/9/14
+             random subsets of 29: PC1-5 [0.297 0.155 0.096 0.071 0.056] (PC1 95% range 0.236-0.377)
+weak    n=32  PC1-5 [0.231 0.122 0.085 0.072 0.066]  dims for 70/80/90%: 8/12/17
+             random subsets of 32: PC1-5 [0.288 0.156 0.097 0.07  0.055] (PC1 95% range 0.221-0.360)
+
+=== all (86 languages)
+PC1 27.0%  low: ['burmese', 'punjabi_gurmukhi', 'odia', 'gujarati', 'nepali']
+          high: ['english', 'mandarin_simplified', 'mandarin_traditional', 'spanish', 'portuguese']
+          |rho| with bytes/token 0.75, with fraction in-language 0.51
+PC2 14.5%  low: ['papiamento', 'latin', 'slovenian', 'occitan', 'serbian_cyrillic']
+          high: ['mandarin_simplified', 'burmese', 'mandarin_traditional', 'english', 'khmer']
+          |rho| with bytes/token 0.05, with fraction in-language 0.49
+PC3 8.0%  low: ['hungarian', 'turkish', 'japanese', 'german', 'korean']
+          high: ['sundanese', 'moroccan_darija', 'lao', 'egyptian_arabic', 'khmer']
+          |rho| with bytes/token 0.15, with fraction in-language 0.38
+
+=== strong (29 languages)
+PC1 36.4%  low: ['greek', 'bengali', 'persian', 'hungarian', 'czech']
+          high: ['mandarin_simplified', 'english', 'mandarin_traditional', 'japanese', 'spanish']
+          |rho| with bytes/token 0.72, with fraction in-language 0.79
+PC2 13.7%  low: ['french', 'italian', 'spanish', 'romanian', 'polish']
+          high: ['japanese', 'korean', 'bengali', 'turkish', 'thai']
+          |rho| with bytes/token 0.11, with fraction in-language 0.02
+PC3 9.1%  low: ['turkish', 'japanese', 'hungarian', 'german', 'korean']
+          high: ['thai', 'malay', 'vietnamese', 'indonesian', 'arabic']
+          |rho| with bytes/token 0.15, with fraction in-language 0.09
+
+=== weak (32 languages)
+PC1 23.1%  low: ['scots', 'asturian', 'papiamento', 'occitan', 'cantonese']
+          high: ['punjabi_gurmukhi', 'assamese', 'armenian', 'georgian', 'nepali']
+          |rho| with bytes/token 0.69, with fraction in-language 0.12
+PC2 12.2%  low: ['basque', 'uzbek', 'estonian', 'kazakh', 'azerbaijani']
+          high: ['khmer', 'cantonese', 'sundanese', 'javanese', 'cebuano']
+          |rho| with bytes/token 0.07, with fraction in-language 0.09
+PC3 8.5%  low: ['ancient_greek', 'serbian_cyrillic', 'macedonian', 'serbian_latin', 'slovenian']
+          high: ['hindi_romanized', 'uzbek', 'basque', 'sundanese', 'javanese']
+          |rho| with bytes/token 0.17, with fraction in-language 0.11
+
+|cos(group PC, full-space PC)|   columns: full PC1..PC5, then the share of the group PC inside the full top-10
+strong  PC1: 0.76 0.59 0.02 0.14 0.09   in full top-10: 0.96
+strong  PC2: 0.48 0.55 0.00 0.48 0.16   in full top-10: 0.85
+strong  PC3: 0.08 0.23 0.67 0.31 0.27   in full top-10: 0.78
+weak    PC1: 0.84 0.37 0.25 0.05 0.06   in full top-10: 0.96
+weak    PC2: 0.07 0.65 0.63 0.27 0.13   in full top-10: 0.96
+weak    PC3: 0.06 0.12 0.22 0.85 0.17   in full top-10: 0.93
+strong vs weak, |cos| of PC1-3 with each other:
+ [[0.43 0.39 0.15]
+ [0.6  0.17 0.47]
+ [0.03 0.63 0.07]]

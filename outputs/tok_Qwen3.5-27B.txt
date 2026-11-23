@@ -1,0 +1,46 @@
+bytes/token      low: ['tigrinya', 'amharic', 'biblical_hebrew', 'hawaiian', 'mandarin_pinyin']
+                 high: ['tamil', 'arabic', 'hindi', 'russian', 'thai']
+tokens/response  low: ['japanese_romaji', 'latin', 'hindi_romanized', 'classical_chinese', 'mandarin_pinyin']
+                 high: ['georgian', 'armenian', 'amharic', 'lao', 'khmer']
+frac capped      low: ['japanese_romaji', 'classical_chinese', 'latin', 'hindi_romanized', 'sanskrit']
+                 high: ['amharic', 'armenian', 'sinhala', 'lao', 'khmer']
+
+layer 32, |Spearman(PC score, stat)| across 136 languages:
+  bytes/token       PC1 0.55  PC2 0.45  PC3 0.20  PC4 0.13  PC5 0.12
+  tokens/response   PC1 0.14  PC2 0.71  PC3 0.50  PC4 0.07  PC5 0.07
+  frac capped       PC1 0.14  PC2 0.71  PC3 0.51  PC4 0.07  PC5 0.09
+
+share of variance explained by the 3 stats: all dims 0.290, PC1 direction 0.335  (chance ~ 0.022)
+residual PCA: PC1-5 [0.366 0.113 0.075 0.061 0.034] (before: [0.375 0.163 0.082 0.055 0.044])
+|cos(PC1, residual PC1)| 0.98, |Spearman| of language scores 0.81
+residual PC1 low: ['bhojpuri', 'maithili', 'burmese', 'tamil', 'sanskrit']
+             high: ['english', 'mandarin_simplified', 'classical_chinese', 'mandarin_traditional', 'portuguese']
+residual PC2 low: ['khmer', 'lao', 'thai', 'macedonian', 'greek']
+             high: ['japanese', 'korean', 'turkmen', 'uzbek', 'turkish']
+residual PC3 low: ['somali', 'xhosa', 'kinyarwanda', 'malagasy', 'setswana']
+             high: ['biblical_hebrew', 'ancient_greek', 'classical_chinese', 'mandarin_pinyin', 'yiddish']
+
+within-language Spearman(PC1, bytes/token): median +0.36, IQR [+0.17, +0.52]
+pooled within-language slope +7.55 PC1/log-unit; it predicts a between-language PC1 spread (sd) of 2.25 vs actual 4.20
+hindi                  bytes/token  6.22   PC1    +0.6 (percentile 54%)
+urdu                   bytes/token  4.36   PC1    -0.3 (percentile 50%)
+hindi_romanized        bytes/token  3.44   PC1    +0.4 (percentile 54%)
+
+serbian_cyrillic       bytes/token  4.85   PC1    +2.7 (percentile 69%)
+serbian_latin          bytes/token  3.20   PC1    +4.1 (percentile 79%)
+croatian               bytes/token  3.18   PC1    +4.1 (percentile 79%)
+
+mandarin_simplified    bytes/token  4.89   PC1    +9.6 (percentile 99%)
+mandarin_traditional   bytes/token  4.38   PC1    +8.2 (percentile 98%)
+mandarin_pinyin        bytes/token  2.19   PC1    -5.9 (percentile 5%)
+cantonese              bytes/token  3.66   PC1    +3.8 (percentile 75%)
+
+ layer  |rho(PC1, bytes/token)|  RSA vs layer 0  RSA vs tokenization similarity
+     0                     0.39            1.00                            0.30
+     8                     0.69            0.18                            0.28
+    16                     0.60            0.28                            0.25
+    24                     0.56            0.32                            0.23
+    32                     0.55            0.30                            0.22
+    40                     0.44            0.33                            0.21
+    48                     0.41            0.35                            0.22
+    56                     0.66            0.45                            0.23

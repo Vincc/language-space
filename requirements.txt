@@ -1,0 +1,12 @@
+torch
+transformers
+accelerate
+vllm
+anthropic
+python-dotenv
+huggingface_hub
+scikit-learn
+plotly
+pandas
+numpy
+tqdm
